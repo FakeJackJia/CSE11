@@ -1,0 +1,35 @@
+Problem 3:
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1(
+ this.perimeterTest1 = 6
+ this.perimeterTest2 = 18
+ this.borderAreaTest1 = 10
+ this.borderAreaTest2 = 26
+ this.FahrenheitToCelsiusTest1 = -1
+ this.FahrenheitToCelsiusTest2 = 32)
+---------------
+No test methods found.
+
+Problem 4:
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1(
+ this.perimeterTest1 = 6
+ this.perimeterTest2 = 18
+ this.borderAreaTest1 = 10
+ this.borderAreaTest2 = 26
+ this.FahrenheitToCelsiusTest1 = -1
+ this.FahrenheitToCelsiusTest2 = 32
+ this.inchesCombinerTest1 = 152
+ this.inchesCombinerTest2 = 542)
+---------------
+No test methods found.
